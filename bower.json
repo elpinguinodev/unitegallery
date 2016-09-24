@@ -3,7 +3,7 @@
 	"version": "1.7.28",
 	"description": "Responsive jQuery Image and Video Gallery Plugin",
 	"license": "MIT",
-	"homepage": "http://unitegallery.net/",
+	"homepage": "https://unitegallery.net/",
 	"main": [
 		"dist/js/unitegallery.js"
 	],
